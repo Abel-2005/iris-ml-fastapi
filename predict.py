@@ -28,4 +28,5 @@ def predict(data: IrisInput):
     ]])
 
     prediction = model.predict(features)[0]
+    # Bugfix: ensured correct integer response
     return {"prediction": int(prediction)}
