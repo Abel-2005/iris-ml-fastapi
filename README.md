@@ -266,39 +266,13 @@ This project successfully integrates machine learning with DevOps practices usin
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
-\### Project Directory Structure
+### Project Directory Structure
 
-!\[Project Directory Structure](screenshots/project-directory-structure.png)
-
-
-
----
-
-
-
-\## 🔧 Git Setup
-
-
-
-\### Git Initial Setup
-
-!\[Git Initial Setup](screenshots/git-initial-setup.png)
-
-
-
-\### Branches Created
-
-!\[Branches Created](screenshots/branches-created.png)
-
-
-
-\### Git Status
-
-!\[Git Status](screenshots/git-status.png)
+![Project Directory Structure](screenshots/project-directory-structure.png)
 
 
 
@@ -306,45 +280,25 @@ This project successfully integrates machine learning with DevOps practices usin
 
 
 
-\## ⚠️ Merge Conflict
+## 🔧 Git Setup
 
 
 
-\### Merge Conflict
+### Git Initial Setup
 
-!\[Merge Conflict](screenshots/merge-conflict.png)
-
-
-
-\### Merge Conflict Resolved
-
-!\[Merge Conflict Resolved](screenshots/merge-conflict-resolved.png)
+![Git Initial Setup](screenshots/git-initial-setup.png)
 
 
 
----
+### Branches Created
+
+![Branches Created](screenshots/branches-created.png)
 
 
 
-\## 🚀 API \& FastAPI
+### Git Status
 
-
-
-\### API Running
-
-!\[API Running](screenshots/api-running.png)
-
-
-
-\### FastAPI Swagger UI
-
-!\[FastAPI Swagger UI](screenshots/fastapi-swagger-ui.png)
-
-
-
-\### Uvicorn Server Running
-
-!\[Uvicorn Server](screenshots/uvicorn-server-running.png)
+![Git Status](screenshots/git-status.png)
 
 
 
@@ -352,19 +306,65 @@ This project successfully integrates machine learning with DevOps practices usin
 
 
 
-\## 🐙 GitHub Repository
+## ⚠️ Merge Conflict
 
 
 
-\### GitHub Repository
+### Merge Conflict
 
-!\[GitHub Repository](screenshots/github-repository.png)
+![Merge Conflict](screenshots/merge-conflict.png)
 
 
 
-\### Remote Origin
+### Merge Conflict Resolved
 
-!\[Git Remote Origin](screenshots/git-remote-origin.png)
+![Merge Conflict Resolved](screenshots/merge-conflict-resolved.png)
+
+
+
+---
+
+
+
+## 🚀 API \& FastAPI
+
+
+
+### API Running
+
+![API Running](screenshots/api-running.png)
+
+
+
+### FastAPI Swagger UI
+
+![FastAPI Swagger UI](screenshots/fastapi-swagger-ui.png)
+
+
+
+### Uvicorn Server Running
+
+![Uvicorn Server](screenshots/uvicorn-server-running.png)
+
+
+
+---
+
+
+
+## 🐙 GitHub Repository
+
+
+
+### GitHub Repository
+
+![GitHub Repository](screenshots/github-repository.png)
+
+
+
+### Remote Origin
+
+![Git Remote Origin](screenshots/git-remote-origin.png)
 
 
 
