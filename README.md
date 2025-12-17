@@ -266,77 +266,103 @@ This project successfully integrates machine learning with DevOps practices usin
 
 
 
-Project Structure
+\## 📁 Project Structure
 
-\## 📁 Project Directory Structure
+
+
+\### Project Directory Structure
 
 !\[Project Directory Structure](screenshots/project-directory-structure.png)
 
 
 
-📌 Git Setup
+---
 
-\## 🔧 Git Initial Setup
+
+
+\## 🔧 Git Setup
+
+
+
+\### Git Initial Setup
 
 !\[Git Initial Setup](screenshots/git-initial-setup.png)
 
 
 
-\## 🌿 Branches Created
+\### Branches Created
 
 !\[Branches Created](screenshots/branches-created.png)
 
 
 
-\## 📌 Git Status
+\### Git Status
 
 !\[Git Status](screenshots/git-status.png)
 
 
 
-📌 Merge Conflict
+---
+
+
 
 \## ⚠️ Merge Conflict
+
+
+
+\### Merge Conflict
 
 !\[Merge Conflict](screenshots/merge-conflict.png)
 
 
 
-\## ✅ Merge Conflict Resolved
+\### Merge Conflict Resolved
 
 !\[Merge Conflict Resolved](screenshots/merge-conflict-resolved.png)
 
 
 
-📌 API \& FastAPI
+---
 
-\## 🚀 API Running
+
+
+\## 🚀 API \& FastAPI
+
+
+
+\### API Running
 
 !\[API Running](screenshots/api-running.png)
 
 
 
-\## 🌐 FastAPI Swagger UI
+\### FastAPI Swagger UI
 
-!\[Swagger UI](screenshots/fastapi-swagger-ui.png)
+!\[FastAPI Swagger UI](screenshots/fastapi-swagger-ui.png)
 
 
 
-\## ⚡ Uvicorn Server
+\### Uvicorn Server Running
 
 !\[Uvicorn Server](screenshots/uvicorn-server-running.png)
 
 
 
-📌 GitHub Repository
+---
+
+
 
 \## 🐙 GitHub Repository
+
+
+
+\### GitHub Repository
 
 !\[GitHub Repository](screenshots/github-repository.png)
 
 
 
-\## 🔗 Remote Origin
+\### Remote Origin
 
 !\[Git Remote Origin](screenshots/git-remote-origin.png)
 
@@ -379,8 +405,4 @@ Git Documentation – https://git-scm.com
 
 
 GitHub Documentation – https://docs.github.com
-
-
-
-
 
