@@ -367,6 +367,16 @@ This project successfully integrates machine learning with DevOps practices usin
 !\[Git Remote Origin](screenshots/git-remote-origin.png)
 
 
+## Challenges Faced
+
+- Understanding Git branching and managing multiple branches simultaneously.
+- Resolving merge conflicts while modifying the same file in different branches.
+- Debugging errors while integrating the machine learning model with the FastAPI application.
+- Handling large dataset uploads and managing repository structure efficiently.
+- Ensuring correct input format for API predictions.
+
+
+
 
 13\. Future Scope
 
